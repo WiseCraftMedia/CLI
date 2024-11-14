@@ -1,0 +1,41 @@
+footer svg {
+  fill: gray;
+}
+
+.test {
+  transform: scale(1.7);
+}
+
+footer {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/* Carousel sizing  */
+.carousel-item img {
+  max-width: 100%;
+  max-height: 500px;
+  object-fit: contain;
+  display: block;
+  margin: auto;
+}
+
+.extra {
+  box-shadow: 4px 4px 4px 4px rgb(122, 122, 122);
+}
+
+body {
+  background-color: rgb(216, 216, 216);
+}
+
+html {
+  font-family: cursive;
+}
+
+.nav-link {
+  font-size: 2vh;
+}
+
+html {
+  background-color: red;
+}
